@@ -1,0 +1,15 @@
+.row-2{
+	justify-content: space-between;
+	margin: 100px auto 50px;
+	background-color: white;
+}
+
+select{
+	border: 1px solid #ff523b;
+	padding: 5px;
+	box-shadow: 5px 5px 5px #DA70D6;
+}
+select-focus{
+	outline: none;
+	color: rgb(180,38,138);
+}
